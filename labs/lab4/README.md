@@ -5,7 +5,7 @@ For our Hands-On, you will need to run <a href="https://github.com/GoogleCloudPl
 ### 1. Run the Hipster Shop
 
 ```bash
-wget -O- https://raw.githubusercontent.com/Dynatrace-APAC/Workshop-Kubernetes/master/deploy.sh | bash
+wget -O- https://github.com/virtualrussel/TechLab-Kubernetes/blob/master/deploy.sh | bash
 ```
 
 Once deployed, you can locate the front-end endpoint from GCP (<b>Kubernetes Engine -> Services & Ingress</b>)
